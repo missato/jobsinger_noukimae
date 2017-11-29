@@ -1,5 +1,13 @@
 # jobsinger_noukimae
 
+## エンジニアのみなさんからの歌詞の修正・追加募集中！
+プルリク待ってます＼(^o^)／
+
+## youtube
+https://www.youtube.com/watch?v=Tsjm51Ftf8Q&feature=youtu.be
+
+## jobsinger_noukimae
+
 ``Chorus``
 納期前  落とし前つける everybody crazy right now
 絶え間なく 答えなく タイピング everybody funky right now 
