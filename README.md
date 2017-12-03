@@ -27,8 +27,8 @@ AM2:00が過ぎると加速する  現実逃避ゆえの妄想タイム
 アルゴリズム  変えずに済む…そんなわけない  常備したエナジードリンク底をつく
 
 ``Call&Response``
-Java (Java) scala (scala)  JS  php
-Unity(Unity) cobol (cobol) Ruby .NET ×2
+Java (Java) Scala (Scala)  JS  php
+Unity (Unity) COBOL (COBOL) Ruby .NET　×2
 
 ``Bメロ``
 みんな使う銀行システムも  今が旬のゲームアプリも
@@ -54,8 +54,8 @@ Unity(Unity) cobol (cobol) Ruby .NET ×2
 絶え間なく 答えなく タイピング everybody funky right now 
 
 ``Call&Response``
-Java (Java) scala (scala)  JS  php
-Unity(Unity) cobol (cobol) Ruby .NET　×2
+Java (Java) Scala (Scala)  JS  php
+Unity (Unity) COBOL (COBOL) Ruby .NET　×2
 
 
 ## song by missato
